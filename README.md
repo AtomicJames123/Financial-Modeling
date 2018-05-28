@@ -1,1 +1,1 @@
-# CS365
+# Finance
