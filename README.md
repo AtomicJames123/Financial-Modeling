@@ -1,2 +1,2 @@
 # Finance
-# Binary Options
+Binary Options
